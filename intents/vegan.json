@@ -1,0 +1,28 @@
+{
+  "id": "a5c5f727-d40b-4f2e-955a-f7f0141d4359",
+  "name": "vegan",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "We are not a vegan restaurant, but we have a great vegan menu"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547579115,
+  "fallbackIntent": false,
+  "events": []
+}

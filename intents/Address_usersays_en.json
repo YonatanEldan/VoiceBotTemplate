@@ -1,0 +1,38 @@
+[
+  {
+    "id": "ddfbe29a-a0eb-43ee-b3b0-d6c55f9624b6",
+    "data": [
+      {
+        "text": "what is your location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547577607
+  },
+  {
+    "id": "4174e0ab-8308-4cad-abe3-ebc9133d7274",
+    "data": [
+      {
+        "text": "where is the restaurant located",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547577607
+  },
+  {
+    "id": "e605a85f-cef7-450c-93c8-55eea48afe55",
+    "data": [
+      {
+        "text": "what\u0027s your address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547577607
+  }
+]

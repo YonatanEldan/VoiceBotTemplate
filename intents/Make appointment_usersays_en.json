@@ -1,0 +1,92 @@
+[
+  {
+    "id": "0ae69426-54cd-4d66-be82-613e5eccd053",
+    "data": [
+      {
+        "text": "i would like to make a reservation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547577430
+  },
+  {
+    "id": "8287d859-7e58-4e20-a0c2-742b06922d25",
+    "data": [
+      {
+        "text": "save me a spot for ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " people ",
+        "userDefined": false
+      },
+      {
+        "text": "on the 12/2/19",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547143320
+  },
+  {
+    "id": "db321bca-bc2a-4070-bbc3-6c6e25e683d3",
+    "data": [
+      {
+        "text": "book me a table for ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "evening 8pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547143320
+  },
+  {
+    "id": "ecb1ce08-96f2-4756-bf5c-80a2c5e81710",
+    "data": [
+      {
+        "text": "I\u0027d like to book a table",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547143320
+  }
+]

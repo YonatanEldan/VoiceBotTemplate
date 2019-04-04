@@ -1,0 +1,28 @@
+{
+  "id": "6fb28d6f-460b-4716-8ad3-ac206bff85e1",
+  "name": "Default thanks",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "no problem, always here to help!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547674258,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "274f2854-711e-4ddd-879b-77073e294775",
+  "name": "Address",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "We are located at 76 Hauser boulevard, Los Angeles"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547577659,
+  "fallbackIntent": false,
+  "events": []
+}

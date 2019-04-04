@@ -1,0 +1,26 @@
+[
+  {
+    "id": "2059e1be-ce45-42b2-b3b9-5c4f4101895d",
+    "data": [
+      {
+        "text": "goodbye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1547674365
+  },
+  {
+    "id": "32a3ed5f-76c0-49b5-a18e-607484e04613",
+    "data": [
+      {
+        "text": "bye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547674365
+  }
+]

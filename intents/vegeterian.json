@@ -1,0 +1,28 @@
+{
+  "id": "4ead26d2-997e-4c46-84b7-467e21b7add9",
+  "name": "vegeterian",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "We are not a vegetarian restaurant, but we have a great vegetarian menu"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547579111,
+  "fallbackIntent": false,
+  "events": []
+}

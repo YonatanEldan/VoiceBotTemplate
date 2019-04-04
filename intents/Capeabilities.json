@@ -1,0 +1,28 @@
+{
+  "id": "4be4644a-2ab9-40d8-8362-a7594b00b5f9",
+  "name": "Capeabilities",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I can help you make a reservation, tell you the address and the opening hours of the restaurant, i can also do a backflip but my back hurts so i won\u0027t, how can i help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547673834,
+  "fallbackIntent": false,
+  "events": []
+}

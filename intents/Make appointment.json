@@ -1,0 +1,75 @@
+{
+  "id": "d42ad654-c67f-49a9-ad7e-2c38b70a0a31",
+  "name": "Make appointment",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "645b06b7-dda8-463a-8f83-562b4d57116e",
+          "required": true,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "On which date should i schedule your reservation?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "faec7402-073a-46c5-853b-46d077086659",
+          "required": true,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "For what hour would you like me to book your table for?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "ef588ce1-1aed-4379-b03f-df1cdb73dbb9",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "how many people will you be?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Sure! i booked a table for you on $date at $time.original  for $number people, see you then!"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telephony": false,
+        "facebook": false,
+        "google": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547670875,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,53 @@
+[
+  {
+    "id": "7e7db1d1-0ebb-4890-a475-4d3c49eacc35",
+    "data": [
+      {
+        "text": "are you a ",
+        "userDefined": false
+      },
+      {
+        "text": "vegetarian",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " restaurant?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547578062
+  },
+  {
+    "id": "8f151985-f041-4094-b8bd-bfa5ae1ac8df",
+    "data": [
+      {
+        "text": "do you ",
+        "userDefined": false
+      },
+      {
+        "text": "have",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "vegetarian",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547578062
+  }
+]

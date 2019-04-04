@@ -1,0 +1,26 @@
+[
+  {
+    "id": "a13a246d-eac8-4963-9b62-082e9dcfaa3a",
+    "data": [
+      {
+        "text": "do you have vegan food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547578505
+  },
+  {
+    "id": "046b4d79-63fb-4a62-8529-9dae848d765c",
+    "data": [
+      {
+        "text": "are you a vegan restaurant?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547578505
+  }
+]
